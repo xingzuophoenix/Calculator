@@ -13,11 +13,9 @@ A simple and responsive web-based calculator that performs basic arithmetic oper
 ## Demo
 
 
-# To run the website on,
-
-- web browser (e.g., Chrome, Firefox, Edge).
 
 ## Keyboard Shortcuts
+
 
   | **Key**        | **Action**            |
 |-----------------|-----------------------|
@@ -27,3 +25,7 @@ A simple and responsive web-based calculator that performs basic arithmetic oper
 | `C`             | Clear input           |
 | `Backspace`     | Delete last input     |
 
+
+## To run the website on,
+
+- web browser (e.g., Chrome, Firefox, Edge).
