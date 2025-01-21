@@ -12,7 +12,7 @@ A simple and responsive web-based calculator that performs basic arithmetic oper
 
 ## Demo
 
-![Project Demo](./screenshot.jpg)
+![Project Demo](Calculator - CodeSoft Project/screenshot.jpg)
 
 ## Keyboard Shortcuts
 
