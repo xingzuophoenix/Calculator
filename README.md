@@ -13,6 +13,17 @@ A simple and responsive web-based calculator that performs basic arithmetic oper
 ## Demo
 
 
-To run the project:
+To run the websiteon,
 
-- A web browser (e.g., Chrome, Firefox, Edge).
+- web browser (e.g., Chrome, Firefox, Edge).
+
+## Keyboard Shortcuts
+
+  | **Key**        | **Action**            |
+|-----------------|-----------------------|
+| Numbers 0–9     | Input numbers         |
+| `+`, `-`, `/`, `%`, `*` | Perform operations  |
+| `Enter`         | Calculate result      |
+| `C`             | Clear input           |
+| `Backspace`     | Delete last input     |
+
