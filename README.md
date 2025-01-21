@@ -28,4 +28,5 @@ A simple and responsive web-based calculator that performs basic arithmetic oper
 
 ## To run the website on,
 
-- web browser (e.g., Chrome, Firefox, Edge).
+- web browser (e.g., Chrome, Firefox, Edge)
+- link: https://xineohpouzgnix-8274510.on.drv.tw/Calculator%20-%20CodeSoft%20Project/
