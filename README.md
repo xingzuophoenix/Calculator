@@ -12,6 +12,7 @@ A simple and responsive web-based calculator that performs basic arithmetic oper
 
 ## Demo
 
+![Calculator Screenshot]()
 
 
 ## Keyboard Shortcuts
